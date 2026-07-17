@@ -6,6 +6,10 @@ The application checks **every valid building combination** and **every unique c
 
 ---
 
+### 🔗 [View Live Project Demo](https://maximum-profit-problem.netlify.app)
+
+---
+
 ## 📖 Project Overview
 
 Mr. X owns unlimited land and can construct three different types of buildings.
@@ -169,17 +173,17 @@ Max-Profit-Problem/
 
 ## ✨ Features
 
-✅ Beginner-Friendly JavaScript
-✅ Responsive Design
-✅ Glassmorphism User Interface
-✅ Input Validation
-✅ Displays Maximum Profit
-✅ Displays Remaining Time
-✅ Displays Total Buildings
-✅ Displays Construction Order
-✅ Finds All Optimal Solutions
-✅ Uses Brute Force Algorithm
-✅ Fully Commented Code
+- ✅ Beginner-Friendly JavaScript
+- ✅ Responsive Design
+- ✅ Glassmorphism User Interface
+- ✅ Input Validation
+- ✅ Displays Maximum Profit
+- ✅ Displays Remaining Time
+- ✅ Displays Total Buildings
+- ✅ Displays Construction Order
+- ✅ Finds All Optimal Solutions
+- ✅ Uses Brute Force Algorithm
+- ✅ Fully Commented Code
 
 ---
 
